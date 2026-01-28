@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master ] # Cambiato da main a master
 
 permissions:
   contents: read
@@ -23,10 +23,10 @@ jobs:
           cache-dependency-path: './satellite-star/package-lock.json'
       - name: Install dependencies
         run: npm install
-        working-directory: ./satellite-star
+        working-directory: ./satellite-star # Indica dove sono i file
       - name: Build Astro
         run: npm run build
-        working-directory: ./satellite-star
+        working-directory: ./satellite-star # Indica dove sono i file
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
