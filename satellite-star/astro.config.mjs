@@ -5,15 +5,15 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
     site: 'https://goodwitchlalya.github.io',
-    base: '/Lalyan-Documentation',
+    base: '/Lalyan-Projects',
 
     redirects: {
-        '/': '/Lalyan-Documentation/en/',
+        '/': '/Lalyan-Projects/en/',
     },
 
     integrations: [
        starlight({
-          title: 'Lalyan Documentation',
+          title: 'Lalyan Projects',
           customCss: ['./src/styles/custom.css'],
           defaultLocale: 'en',
           locales: {
@@ -33,7 +33,6 @@ export default defineConfig({
                  translations: { it: 'Docs'},
                  items: [
                     { label: 'Mods Index', translations: { it: 'Indice Mods'}, slug: 'mods' },
-                    //{ label: 'Lalyan Cosmetic Core', translations: { it: 'Lalyan Cosmetic Core'}, slug: 'mod/lalyan-cosmetic-core' },
                  ],
              },
              {

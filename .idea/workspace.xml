@@ -4,31 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d717d390-f33e-4030-b3c4-8666c3f9ec3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/satellite-star/src/assets/mods/ancient-golemancy/showcase/img6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/it/mod/ancient-golemancy.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/it/mod/ancient-golemancy/documentation.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/it/mod/ancient-golemancy/guide.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/it/mod/ancient-golemancy/lore.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/it/mod/ancient-golemancy/resources.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+    <list default="true" id="d717d390-f33e-4030-b3c4-8666c3f9ec3c" name="Changes" comment="Add Ancient Golemancy Italian translation and update site content&#10;&#10;- Add Italian translation for Ancient Golemancy (Showcase, Guide, Lore, Documentation, Resources).&#10;- Add mod credits to Ancient Golemancy and Lalyan Cosmetic Core pages.&#10;- Add &quot;Support the project&quot; section to English and Italian index pages.&#10;- Update Ancient Golemancy showcase images and add a 6th image.&#10;- Refactor Lalyan Cosmetic Core Italian page and add Early Access warning.&#10;- Remove summary line from License pages and fix minor typos in English documentation.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/satellite-star/src/assets/mods/ancient-golemancy/showcase/img1.png" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/assets/mods/ancient-golemancy/showcase/img1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/satellite-star/src/assets/mods/ancient-golemancy/showcase/img2.png" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/assets/mods/ancient-golemancy/showcase/img2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/satellite-star/src/assets/mods/ancient-golemancy/showcase/img3.png" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/assets/mods/ancient-golemancy/showcase/img3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/satellite-star/src/assets/mods/ancient-golemancy/showcase/img4.png" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/assets/mods/ancient-golemancy/showcase/img4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/satellite-star/src/assets/mods/ancient-golemancy/showcase/img5.png" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/assets/mods/ancient-golemancy/showcase/img5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/satellite-star/astro.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/astro.config.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/satellite-star/src/content/docs/en/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/en/index.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/satellite-star/src/content/docs/en/license.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/en/license.mdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/satellite-star/src/content/docs/en/mod/ancient-golemancy.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/en/mod/ancient-golemancy.mdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/satellite-star/src/content/docs/en/mod/ancient-golemancy/documentation.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/en/mod/ancient-golemancy/documentation.mdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/satellite-star/src/content/docs/en/mod/ancient-golemancy/guide.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/en/mod/ancient-golemancy/guide.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/satellite-star/src/content/docs/en/mod/ancient-golemancy/lore.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/en/mod/ancient-golemancy/lore.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/satellite-star/src/content/docs/en/mod/ancient-golemancy/resources.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/en/mod/ancient-golemancy/resources.mdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/satellite-star/src/content/docs/en/mod/lalyan-cosmetic-core.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/en/mod/lalyan-cosmetic-core.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/satellite-star/src/content/docs/en/mod/lalyan-cosmetic-core/documentation.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/en/mod/lalyan-cosmetic-core/documentation.mdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/satellite-star/src/content/docs/en/mod/lalyan-cosmetic-core/resources.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/en/mod/lalyan-cosmetic-core/resources.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/satellite-star/src/content/docs/en/mods.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/en/mods.mdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/satellite-star/src/content/docs/it/index.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/it/index.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/satellite-star/src/content/docs/it/license.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/it/license.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/satellite-star/src/content/docs/it/mod/ancient-golemancy.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/it/mod/ancient-golemancy.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/satellite-star/src/content/docs/it/mod/ancient-golemancy/documentation.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/it/mod/ancient-golemancy/documentation.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/satellite-star/src/content/docs/it/mod/ancient-golemancy/guide.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/it/mod/ancient-golemancy/guide.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/satellite-star/src/content/docs/it/mod/ancient-golemancy/lore.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/it/mod/ancient-golemancy/lore.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/satellite-star/src/content/docs/it/mod/ancient-golemancy/resources.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/it/mod/ancient-golemancy/resources.mdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/satellite-star/src/content/docs/it/mod/lalyan-cosmetic-core.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/it/mod/lalyan-cosmetic-core.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/satellite-star/src/content/docs/it/mod/lalyan-cosmetic-core/documentation.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/it/mod/lalyan-cosmetic-core/documentation.mdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/satellite-star/src/content/docs/it/mod/lalyan-cosmetic-core/resources.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/it/mod/lalyan-cosmetic-core/resources.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/satellite-star/src/content/docs/it/mods.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/satellite-star/src/content/docs/it/mods.mdx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770115248233</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Add Ancient Golemancy Italian translation and update site content&#10;&#10;- Add Italian translation for Ancient Golemancy (Showcase, Guide, Lore, Documentation, Resources).&#10;- Add mod credits to Ancient Golemancy and Lalyan Cosmetic Core pages.&#10;- Add &quot;Support the project&quot; section to English and Italian index pages.&#10;- Update Ancient Golemancy showcase images and add a 6th image.&#10;- Refactor Lalyan Cosmetic Core Italian page and add Early Access warning.&#10;- Remove summary line from License pages and fix minor typos in English documentation.">
+      <option name="closed" value="true" />
+      <created>1770139282632</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1770139282632</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -240,6 +246,7 @@
     <MESSAGE value="Update documentation headers and license footers&#10;&#10;- Apply color styling to headers in Ancient Golemancy and Lalyan Cosmetic Core pages.&#10;- Add and correct license footers across English and Italian documentation.&#10;- Update Italian sidebar translations for Ancient Golemancy in `astro.config.mjs`." />
     <MESSAGE value="Add Ancient Golemancy to Italian mods index&#10;&#10;- Add Ancient Golemancy entry to `src/content/docs/it/mods.mdx`.&#10;- Fix indentation in `src/content/docs/en/mods.mdx`." />
     <MESSAGE value="Refactor Lalyan Cosmetic Core (IT) pages and fix Ancient Golemancy link&#10;&#10;- Move documentation content to `documentation.mdx`&#10;- Convert main page to showcase and delete `showcase.mdx`&#10;- Update header styling in `resources.mdx`&#10;- Fix Ancient Golemancy link in `it/mods.mdx`" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor Lalyan Cosmetic Core (IT) pages and fix Ancient Golemancy link&#10;&#10;- Move documentation content to `documentation.mdx`&#10;- Convert main page to showcase and delete `showcase.mdx`&#10;- Update header styling in `resources.mdx`&#10;- Fix Ancient Golemancy link in `it/mods.mdx`" />
+    <MESSAGE value="Add Ancient Golemancy Italian translation and update site content&#10;&#10;- Add Italian translation for Ancient Golemancy (Showcase, Guide, Lore, Documentation, Resources).&#10;- Add mod credits to Ancient Golemancy and Lalyan Cosmetic Core pages.&#10;- Add &quot;Support the project&quot; section to English and Italian index pages.&#10;- Update Ancient Golemancy showcase images and add a 6th image.&#10;- Refactor Lalyan Cosmetic Core Italian page and add Early Access warning.&#10;- Remove summary line from License pages and fix minor typos in English documentation." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Ancient Golemancy Italian translation and update site content&#10;&#10;- Add Italian translation for Ancient Golemancy (Showcase, Guide, Lore, Documentation, Resources).&#10;- Add mod credits to Ancient Golemancy and Lalyan Cosmetic Core pages.&#10;- Add &quot;Support the project&quot; section to English and Italian index pages.&#10;- Update Ancient Golemancy showcase images and add a 6th image.&#10;- Refactor Lalyan Cosmetic Core Italian page and add Early Access warning.&#10;- Remove summary line from License pages and fix minor typos in English documentation." />
   </component>
 </project>
