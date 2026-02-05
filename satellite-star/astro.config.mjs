@@ -9,6 +9,7 @@ export default defineConfig({
 
     redirects: {
         '/': '/Lalyan-Projects/en/',
+        '/kofi': 'https://ko-fi.com/goodwitchlalya',
     },
 
     integrations: [
