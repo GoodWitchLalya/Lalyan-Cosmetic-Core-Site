@@ -66,7 +66,7 @@ Puoi trovare maggiori informazioni su come sono scritti i permessi [qui](#permes
 
 ## <span style="color:#3598DB;">Registrazione dei cosmetici</span>
 
-> <span style="color:#E03E2D;">!Attenzione! Ricordati che il nome che dai ad i files è importante!</span>
+> <span style="color:#E03E2D;">!Attenzione! Ricordati che il nome che dai ad i files è importante!</span> <br/>
 
 Registrare un cosmetico è abbastanza semplice. Dovrai creare un pacchetto di risorse (ovviamente), e avrai bisogno di 3 file essenziali:
 
@@ -136,7 +136,7 @@ Lo slot Hair_Extension prende automaticamente il gradiente del'acconciatura.
 
 > <span style="color:#E03E2D;">!Attenzione! Varianti e colori si escludono a vicenda!</span> <br/>
 
-> <span style="color:#E03E2D;">!Attenzione! Le estensioni per i capelli (Hair_Extension) non possono avere varianti ne colori, cambiano a seconda del taglio di capelli!</span>
+> <span style="color:#E03E2D;">!Attenzione! Le estensioni per i capelli (Hair_Extension) non possono avere varianti ne colori, cambiano a seconda del taglio di capelli!</span> <br/>
 
 Questa API ti consente anche di aggiungere delle varianti.
 
@@ -332,12 +332,12 @@ Schema json Slot:
 }
 ```
 
-`Name`: Il nome da mostrare, usato anche nell'assegnazione ad un cosmetico, ACCETTA SOLO LETTERE GRANDI E PICCOLE, NIENTE NUMERI O CARATTERI SPECIALE <br>
-`Icon`: L'icona del bottone <br>
-`SelectedIcon`: L'icona del bottone quando lo slot è selezionato <br>
-`TopLevelCategory`: La categoria del bottone (Vedi sopra) <br>
-`Camera`: Le impostazioni della camera quando selezioni lo slot <br>
-`CanVanish`: Se lo slot ha un bottone di scomparsa (Lo slot "Faces" è l'unico che lo ha a false) <br>
+`Name`: Il nome da mostrare, usato anche nell'assegnazione ad un cosmetico, ACCETTA SOLO LETTERE GRANDI E PICCOLE, NIENTE NUMERI O CARATTERI SPECIALE <br/>
+`Icon`: L'icona del bottone <br/>
+`SelectedIcon`: L'icona del bottone quando lo slot è selezionato <br/>
+`TopLevelCategory`: La categoria del bottone (Vedi sopra) <br/>
+`Camera`: Le impostazioni della camera quando selezioni lo slot <br/>
+`CanVanish`: Se lo slot ha un bottone di scomparsa (Lo slot "Faces" è l'unico che lo ha a false) <br/>
 
 ## <span style="color:#3598db">Permessi (opzionale)</span>
 
@@ -360,8 +360,8 @@ il campo `cosmetic` serve a ottenere i permessi per un cosmetico specifico.
 È scritto così: `lalyancosmeticcore.cosmetic.[ID_Cosmetico].[AZIONE]`.
 
 Alcuni esempi:
-> `lalyancosmeticcore.cosmetic.GoodWitchLalya:ExampleCosmetics#Propeller_Hat.use`<br/>
-> `lalyancosmeticcore.cosmetic.GoodWitchLalya:ExampleCosmetics#Rainbow_Shirt.use`
+> `lalyancosmeticcore.cosmetic.GoodWitchLalya:ExampleCosmetics#Propeller_Hat.use` <br/>
+> `lalyancosmeticcore.cosmetic.GoodWitchLalya:ExampleCosmetics#Rainbow_Shirt.use` <br/>
 
 Se vuoi sapere com'è scritto un permesso per un cosmetico specifico puoi usare `/cosmetic list --permissions` per ottenere una lista di tutti i permessi.
 
@@ -371,8 +371,8 @@ Il campo `slot` serve a ottenere i permessi per uno slot specifico e tutti i suo
 È scritto così: `lalyancosmeticcore.slot.[ID_Slot].[AZIONE]`.
 
 Alcuni esempi:
-> `lalyancosmeticcore.slot.Head.use`<br/>
-> `lalyancosmeticcore.slot.Overpants.use`
+> `lalyancosmeticcore.slot.Head.use` <br/>
+> `lalyancosmeticcore.slot.Overpants.use` <br/>
 
 La lista con tutti gli slot: <a href="#parti-del-personaggio">Qui</a>(parti del personaggio), <a href="#cosmetici">Qui</a>(cosmetici)
 
